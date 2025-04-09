@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -83,7 +82,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="font-medium text-bone-900">Teléfono</p>
-                    <p className="text-bone-700">+34 123 456 789</p>
+                    <p className="text-bone-700">+56 9 84143656</p>
                   </div>
                 </div>
                 
@@ -95,7 +94,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="font-medium text-bone-900">Correo electrónico</p>
-                    <p className="text-bone-700">info@osteoviz.com</p>
+                    <p className="text-bone-700">info@petitos.com</p>
                   </div>
                 </div>
                 
@@ -108,7 +107,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="font-medium text-bone-900">Dirección</p>
-                    <p className="text-bone-700">Calle Innovación 123, 28001 Madrid, España</p>
+                    <p className="text-bone-700">General Cruz 222, Valparaíso, Chile</p>
                   </div>
                 </div>
               </div>

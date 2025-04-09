@@ -12,7 +12,7 @@ const Navbar: React.FC<NavbarProps> = ({ className }) => {
     <nav className={cn("w-full py-4 px-6 md:px-12 flex items-center justify-between bg-bone-100/80 backdrop-blur-sm sticky top-0 z-50", className)}>
       <div className="flex items-center">
         <div className="text-2xl font-bold text-bone-900">
-          <span className="text-teal-600">Osteo</span>Viz
+          <span className="text-teal-600">Petit</span>Os
         </div>
       </div>
       

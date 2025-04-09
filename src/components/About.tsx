@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Card, CardContent } from "@/components/ui/card";
 
@@ -9,7 +8,7 @@ const About: React.FC = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-bone-900 mb-4">Sobre Nosotros</h2>
           <p className="text-lg text-bone-700 max-w-3xl mx-auto">
-            Somos un equipo de especialistas en salud ósea y diseño de información médica, comprometidos con hacer la información médica accesible para todos.
+            Somos un equipo de especialistas informáticos y diseño de información, comprometidos con hacer la información médica de la salud ósea accesible y entendible para todos.
           </p>
         </div>
         

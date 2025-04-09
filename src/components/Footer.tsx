@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Separator } from "@/components/ui/separator";
 
@@ -9,7 +8,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
           <div>
             <div className="text-2xl font-bold text-bone-900 mb-4">
-              <span className="text-teal-600">Osteo</span>Viz
+              <span className="text-teal-600">Petit</span>Os
             </div>
             <p className="text-bone-700 mb-4">
               Transformando la forma en que los adultos mayores entienden su salud ósea a través de visualizaciones intuitivas.
@@ -66,7 +65,7 @@ const Footer: React.FC = () => {
         <Separator className="bg-bone-200 my-8" />
         
         <div className="flex flex-col md:flex-row justify-between items-center">
-          <p className="text-bone-600 text-sm">&copy; 2025 OsteoViz. Todos los derechos reservados.</p>
+          <p className="text-bone-600 text-sm">&copy; 2025 PetitOs. Todos los derechos reservados.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-bone-600 hover:text-teal-600 transition-colors text-sm">Política de privacidad</a>
             <a href="#" className="text-bone-600 hover:text-teal-600 transition-colors text-sm">Términos de servicio</a>
