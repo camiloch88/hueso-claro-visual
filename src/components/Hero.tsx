@@ -29,14 +29,11 @@ const Hero: React.FC = () => {
               <div className="absolute inset-0 flex items-center justify-center">
                 <div className="relative w-3/4 h-3/4">
                   <div className="absolute inset-0 bg-white rounded-2xl shadow-lg flex items-center justify-center p-6">
-                    <div className="w-full h-full bg-teal-50 rounded-xl flex items-center justify-center">
-                      <div className="w-3/4 h-3/4 relative">
-                        <div className="absolute inset-0 bg-white/80 rounded-lg" />
-                        <div className="absolute left-1/4 top-1/2 w-1/2 h-1/3 bg-teal-200 rounded-full transform -translate-y-1/2 animate-pulse-gentle" />
-                        <div className="absolute left-1/3 top-1/4 w-1/3 h-1/2 border-2 border-teal-400 rounded-lg" />
-                        <div className="absolute right-1/4 bottom-1/4 w-1/4 h-1/4 bg-bone-300 rounded-md" />
-                      </div>
-                    </div>
+                    <img 
+                      src="/lovable-uploads/b8b17c40-e214-4a74-a910-4c244c83a0a3.png" 
+                      alt="Bone health visualization" 
+                      className="w-full h-full object-cover rounded-xl"
+                    />
                   </div>
                 </div>
               </div>
